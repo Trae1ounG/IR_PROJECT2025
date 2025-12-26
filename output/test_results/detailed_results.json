@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 0,
+    "question": "what influenced john steinbeck to start writing?",
+    "answers": [
+      "William Faulkner",
+      "Robert Burns",
+      "Sherwood Anderson",
+      "Thomas Malory"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 1,
+    "question": "what school did sir ernest rutherford go to?",
+    "answers": [
+      "Trinity College, Cambridge",
+      "Nelson College",
+      "University of Canterbury",
+      "University of Cambridge",
+      "University of New Zealand"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 2,
+    "question": "what instruments does justin bieber use?",
+    "answers": [
+      "guitar",
+      "Piano",
+      "trumpet",
+      "Drums"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 3,
+    "question": "when did president theodore roosevelt take office?",
+    "answers": [
+      "9/14/1901"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 4,
+    "question": "what was dr seuss real name?",
+    "answers": [
+      "Theodor Robert Geisel"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 5,
+    "question": "what movies is omar epps in?",
+    "answers": [
+      "Daybreak",
+      "Major League II",
+      "Scream 2",
+      "First Time Felon",
+      "Breakfast of Champions",
+      "Juice",
+      "The Program",
+      "Deadly Voyage",
+      "Higher Learning",
+      "Don't Be a Menace to South Central While Drinking Your Juice in the Hood"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 6,
+    "question": "what is the state name of new york city?",
+    "answers": [
+      "New York"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 7,
+    "question": "where did eleanor roosevelt die?",
+    "answers": [
+      "New York City"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 8,
+    "question": "where was farrah fawcett buried?",
+    "answers": [
+      "Westwood Village Memorial Park Cemetery"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 9,
+    "question": "where did benjamin franklin work?",
+    "answers": [
+      "James Franklin Printing Shop",
+      "United States Postal Service",
+      "Josiah Franklin"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 10,
+    "question": "who did paul revere marry?",
+    "answers": [
+      "Sarah Revere"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 11,
+    "question": "what was robert burns?",
+    "answers": [
+      "Poet",
+      "Writer",
+      "Bard",
+      "Author"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 12,
+    "question": "what type of government does russia have 2010?",
+    "answers": [
+      "Semi-presidential system",
+      "Constitutional republic",
+      "Republic",
+      "Federation"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 13,
+    "question": "what other movies is josh hutcherson in?",
+    "answers": [
+      "The Hunger Games",
+      "Bridge to Terabithia",
+      "The Kids Are All Right"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 14,
+    "question": "who did johnny depp play in corpse bride?",
+    "answers": [
+      "Victor Van Dort"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 15,
+    "question": "who is the governor of virginia 2011?",
+    "answers": [
+      "Bob McDonnell"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 16,
+    "question": "who are the senators of new jersey now?",
+    "answers": [
+      "Bob Menendez"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 17,
+    "question": "what to visit in london city?",
+    "answers": [
+      "Regent's Park",
+      "Tower of London",
+      "Buckingham Palace",
+      "Palace of Westminster",
+      "London Eye",
+      "Tower Bridge",
+      "Hyde Park",
+      "Westminster Abbey",
+      "St Paul's Cathedral",
+      "Trafalgar Square"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 18,
+    "question": "where does robin williams live 2011?",
+    "answers": [
+      "San Francisco"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 19,
+    "question": "who is washington redskins backup qb?",
+    "answers": [
+      "Rex Grossman"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 20,
+    "question": "who plays stacey in the stacy's mom video?",
+    "answers": [
+      "Lacey Turner"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 21,
+    "question": "what is the current time in kauai hawaii?",
+    "answers": [
+      "Hawaii\u2013Aleutian Time Zone",
+      "UTC\u221210:00"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 22,
+    "question": "what club does cristiano ronaldo play for in 2010?",
+    "answers": [
+      "Real Madrid C.F."
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 23,
+    "question": "when does jewish new year start?",
+    "answers": [
+      "Yiddish Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 24,
+    "question": "when was president john adams elected?",
+    "answers": [
+      "John Adams Presidential Campaign, 1796",
+      "John Adams Presidential Campaign, 1800"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 25,
+    "question": "who was king henry viii son?",
+    "answers": [
+      "Prince Henry, Duke of Cornwall",
+      "Edward VI of England",
+      "Mary I of England",
+      "Edward Tudor",
+      "Henry, Duke of Cornwall",
+      "Elizabeth I of England",
+      "Henry FitzRoy, 1st Duke of Richmond and Somerset",
+      "Henry Tudor"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 26,
+    "question": "where was toussaint l'ouverture born?",
+    "answers": [
+      "Haiti"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 27,
+    "question": "what type of cancer did gilda radner die of?",
+    "answers": [
+      "Ovarian cancer"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 28,
+    "question": "where did harry s truman go to school?",
+    "answers": [
+      "University of Missouri\u2013Kansas City School of Law",
+      "University of Missouri\u2013Kansas City",
+      "William Chrisman High School"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 29,
+    "question": "who was the father of king george vi?",
+    "answers": [
+      "George V"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 30,
+    "question": "what language does egyptian people speak?",
+    "answers": [
+      "Modern Standard Arabic"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 31,
+    "question": "what language do australia people speak?",
+    "answers": [
+      "Lojban",
+      "Esperanto Language",
+      "English Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 32,
+    "question": "what type of music did mozart composed?",
+    "answers": [
+      "Opera",
+      "Classical music",
+      "Ballet",
+      "Art song",
+      "Chamber music"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 33,
+    "question": "what channel is the usa pageant on?",
+    "answers": [
+      "us"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 34,
+    "question": "when did michael jordan return to the nba?",
+    "answers": [
+      "2001\u201302 NBA season"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 35,
+    "question": "what time in china hong kong?",
+    "answers": [
+      "UTC+8"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 36,
+    "question": "what year was first world series?",
+    "answers": [
+      "1903 World Series"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 37,
+    "question": "when did the philadelphia flyers win the cup?",
+    "answers": [
+      "1974 Stanley Cup Finals",
+      "1975 Stanley Cup Finals"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 38,
+    "question": "where is jason mraz from?",
+    "answers": [
+      "Mechanicsville"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 39,
+    "question": "what are the names of michael jackson's 3 children?",
+    "answers": [
+      "Paris-Michael Katherine Jackson",
+      "Prince Michael Jackson I",
+      "Prince Michael Jackson II"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 40,
+    "question": "what county is texarkana arkansas in?",
+    "answers": [
+      "Miller County"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 41,
+    "question": "what team does messi play for 2011?",
+    "answers": [
+      "FC Barcelona"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 42,
+    "question": "what airport do you fly into to get to destin fl?",
+    "answers": [
+      "Northwest Florida Regional Airport",
+      "Destin\u2013Fort Walton Beach Airport"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 43,
+    "question": "when was the last time the boston bruins went to the stanley cup?",
+    "answers": [
+      "2011 Stanley Cup Finals"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 44,
+    "question": "what team is kris humphries play for?",
+    "answers": [
+      "Brooklyn Nets"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 45,
+    "question": "where should a family stay in paris?",
+    "answers": [
+      "H\u00f4tel Ritz Paris",
+      "H\u00f4tel de Crillon"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 46,
+    "question": "what are staffordshire terriers?",
+    "answers": [
+      "Dog"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 47,
+    "question": "what does sarabi?",
+    "answers": [
+      "Physician"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 48,
+    "question": "what kind of government does the united states have currently?",
+    "answers": [
+      "Federal republic"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 49,
+    "question": "who will be the red sox next coach?",
+    "answers": [
+      "Nomar Garciaparra"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 50,
+    "question": "what was the name of jfk's brothers?",
+    "answers": [
+      "Robert F. Kennedy",
+      "Ted Kennedy",
+      "Rosemary Kennedy",
+      "Kathleen Cavendish",
+      "Patricia Kennedy Lawford",
+      "Jean Kennedy Smith",
+      "Eunice Kennedy Shriver",
+      "Joseph P. Kennedy, Jr."
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 51,
+    "question": "when did roth ira originate?",
+    "answers": [
+      "William V. Roth, Jr."
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 52,
+    "question": "what political party does barack obama represent?",
+    "answers": [
+      "Democratic Party"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 53,
+    "question": "what year did the milwaukee brewers go to the world series?",
+    "answers": [
+      "1974 Major League Baseball Season"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 54,
+    "question": "where does egypt export to?",
+    "answers": [
+      "Sudan"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 55,
+    "question": "where is roswell area 51?",
+    "answers": [
+      "Roswell"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 56,
+    "question": "what to do today in atlanta with kids?",
+    "answers": [
+      "Atlanta History Center",
+      "Atlanta Cyclorama & Civil War Museum",
+      "Atlanta Ballet",
+      "Fernbank Museum of Natural History",
+      "Woodruff Arts Center",
+      "Zoo Atlanta",
+      "Atlanta Symphony Orchestra",
+      "Centennial Olympic Park",
+      "Martin Luther King, Jr., National Historic Site",
+      "Fernbank Science Center"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 57,
+    "question": "what language did the ancient babylonians speak?",
+    "answers": [
+      "Akkadian language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 58,
+    "question": "what did george washington do as a teenager?",
+    "answers": [
+      "Surveyor"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 59,
+    "question": "what century did slavery end in america?",
+    "answers": [
+      "Western Hemisphere"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 60,
+    "question": "who owns chrysler corporation 2011?",
+    "answers": [
+      "Chrysler Group LLC"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 61,
+    "question": "what did miles davis died of?",
+    "answers": [
+      "Pneumonia",
+      "Stroke",
+      "Respiratory failure"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 62,
+    "question": "what type of political system is brazil?",
+    "answers": [
+      "Constitutional republic",
+      "Presidential system",
+      "Federal republic"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 63,
+    "question": "where is the university of the rockies located?",
+    "answers": [
+      "United States of America",
+      "Colorado",
+      "Colorado Springs"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 64,
+    "question": "what county is st paul va in?",
+    "answers": [
+      "United States of America",
+      "Wise County",
+      "Russell County",
+      "Virginia"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 65,
+    "question": "when did charles goodyear invented rubber?",
+    "answers": [
+      "During the early 1830's he began inventing, filing six patents between 1830 and 1834, and during this period became interested in rubber, which he tried - unsuccessfully - to use in some of his mechanical inventions."
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 66,
+    "question": "where is the thames river source?",
+    "answers": [
+      "Thames Head"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 67,
+    "question": "what countries are part of the uk?",
+    "answers": [
+      "Scotland",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 68,
+    "question": "what do we call the currency of france?",
+    "answers": [
+      "French franc"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 69,
+    "question": "what are the official languages of argentina?",
+    "answers": [
+      "Yiddish Language",
+      "Italian Language",
+      "Spanish Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 70,
+    "question": "where did the gallipoli war take place?",
+    "answers": [
+      "Gallipoli"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 71,
+    "question": "what type of government does brazil have 2011?",
+    "answers": [
+      "Brazilian Labour Renewal Party"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 72,
+    "question": "where did william morris go to college?",
+    "answers": [
+      "Marlborough College",
+      "Exeter College, Oxford",
+      "University of Oxford"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 73,
+    "question": "what the time zone in japan?",
+    "answers": [
+      "Japan Standard Time",
+      "UTC+09:00"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 74,
+    "question": "what language do people from greece speak?",
+    "answers": [
+      "Albanian language",
+      "Greek Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 75,
+    "question": "what radio station is npr on in nyc?",
+    "answers": [
+      "WNYC"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 76,
+    "question": "what degrees did barack obama get?",
+    "answers": [
+      "Juris Doctor",
+      "Bachelor of Arts"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 77,
+    "question": "who played elaine the pain?",
+    "answers": [
+      "Julia Louis-Dreyfus"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 78,
+    "question": "who is amy grant's first husband?",
+    "answers": [
+      "Vince Gill"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 79,
+    "question": "what books did agatha christie wrote?",
+    "answers": [
+      "And Then There Were None",
+      "Le Grand alibi",
+      "Ten Little Indians",
+      "Appointment with Death",
+      "Desyat Negrityat",
+      "The Man in the Brown Suit",
+      "Witness for the Prosecution"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 80,
+    "question": "who is moira in x men?",
+    "answers": [
+      "Olivia Williams",
+      "Rose Byrne"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 81,
+    "question": "what did drita find out?",
+    "answers": [
+      "Football Superleague of Kosovo"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 82,
+    "question": "who played barbara gordon batgirl?",
+    "answers": [
+      "Alicia Silverstone"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 83,
+    "question": "what type of music did john lennon sing?",
+    "answers": [
+      "Experimental rock",
+      "Pop rock",
+      "Pop music",
+      "Blues-rock",
+      "Art rock",
+      "Soft rock",
+      "Psychedelic rock",
+      "Rock music",
+      "Experimental music"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 84,
+    "question": "what position did lebron james play?",
+    "answers": [
+      "Point forward",
+      "Small forward"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 85,
+    "question": "where is the university of maryland medical school?",
+    "answers": [
+      "Maryland",
+      "United States of America",
+      "Baltimore"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 86,
+    "question": "what form of government does north korea have?",
+    "answers": [
+      "Single-party state",
+      "Socialist state",
+      "People's Republic",
+      "Juche",
+      "Unitary state"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 87,
+    "question": "who was the secretary of state when andrew jackson was president?",
+    "answers": [
+      "Martin Van Buren"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 88,
+    "question": "which dawkins book to read first?",
+    "answers": [
+      "The Selfish Gene"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 89,
+    "question": "what money does spain use?",
+    "answers": [
+      "Euro"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 90,
+    "question": "who played amy squirrel in bad teacher?",
+    "answers": [
+      "Lucy Punch"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 91,
+    "question": "what was gregor mendel contribution?",
+    "answers": [
+      "Mendelian inheritance"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 92,
+    "question": "where does the expression excuse my french come from?",
+    "answers": [
+      "English Literature"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 93,
+    "question": "who is vancouver canucks coach?",
+    "answers": [
+      "Alain Vigneault"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 94,
+    "question": "where is holy roman empire located?",
+    "answers": [
+      "Europe",
+      "North Africa",
+      "Middle East"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 95,
+    "question": "where do the appalachian mountains run?",
+    "answers": [
+      "Eastern United States"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 96,
+    "question": "what type of government does the us follow?",
+    "answers": [
+      "Presidential system",
+      "Federal republic",
+      "Representative democracy",
+      "Two-party system",
+      "Constitutional republic",
+      "Republic"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 97,
+    "question": "what states share a border with tennessee?",
+    "answers": [
+      "Virginia"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 98,
+    "question": "where is harley davidson made?",
+    "answers": [
+      "United States of America"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 99,
+    "question": "what did shakespeare learn in grammar school?",
+    "answers": [
+      "william shakespeare performed play by thomas dekker"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 100,
+    "question": "who does the voice for chucky in child's play?",
+    "answers": [
+      "Brad Dourif"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 101,
+    "question": "where were the seneca indians located?",
+    "answers": [
+      "New York"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 102,
+    "question": "what would ap xin zhao do?",
+    "answers": [
+      "Male"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 103,
+    "question": "who was the artist of mickey mouse?",
+    "answers": [
+      "Ub Iwerks",
+      "Walt Disney"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 104,
+    "question": "what language is spoken in switzerland?",
+    "answers": [
+      "Romansh language",
+      "French Language",
+      "German Language",
+      "Italian Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 105,
+    "question": "what was dr seuss's real name?",
+    "answers": [
+      "Theodor Robert Geisel"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 106,
+    "question": "who plays elena gilbert on vampire diaries?",
+    "answers": [
+      "Nina Dobrev"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 107,
+    "question": "what are all the movies taylor swift has been in?",
+    "answers": [
+      "Hannah Montana: The Movie",
+      "Campfire Stories;Comes Around Gos Around",
+      "The Lorax",
+      "Valentine's Day"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 108,
+    "question": "who plays charlie in the santa clause movies?",
+    "answers": [
+      "Kansas City Athletics"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 109,
+    "question": "what produce does florida export?",
+    "answers": [
+      "Orange juice"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 110,
+    "question": "where did kobe earthquake happen?",
+    "answers": [
+      "Great Hanshin earthquake"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 111,
+    "question": "what record label is kelly clarkson signed with?",
+    "answers": [
+      "RCA Records",
+      "Sony BMG Music Entertainment",
+      "Sony Music Entertainment"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 112,
+    "question": "who has coached the carolina panthers?",
+    "answers": [
+      "George Seifert",
+      "Dom Capers",
+      "John Fox"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 113,
+    "question": "what country is dyson made?",
+    "answers": [
+      "United Kingdom"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 114,
+    "question": "where does the columbia river start?",
+    "answers": [
+      "Columbia Lake"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 115,
+    "question": "who are the u s senators of pennsylvania?",
+    "answers": [
+      "James Buchanan",
+      "Albert Gallatin",
+      "Bob Casey, Jr.",
+      "George Clymer",
+      "Arlen Specter",
+      "Robert Morris",
+      "William Maclay",
+      "Michael J. Holston",
+      "Pat Toomey",
+      "James Ross"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 116,
+    "question": "where did the russian japanese war happen?",
+    "answers": [
+      "Yellow Sea",
+      "Korean Peninsula",
+      "Manchuria"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 117,
+    "question": "what language is most commonly spoken in belgium?",
+    "answers": [
+      "French Language",
+      "German Language",
+      "Dutch Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 118,
+    "question": "where did joe flacco attend college?",
+    "answers": [
+      "University of Delaware"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 119,
+    "question": "what to do san jose ca?",
+    "answers": [
+      "San Jose Municipal Rose Garden",
+      "The Tech Museum of Innovation",
+      "Winchester Mystery House",
+      "Japantown",
+      "Downtown San Jose",
+      "Rosicrucian Egyptian Museum",
+      "San Jose Museum of Quilts & Textiles",
+      "San Jose Museum of Art",
+      "Alum Rock Park",
+      "Santana Row"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 120,
+    "question": "where is the empire of ghana?",
+    "answers": [
+      "West Africa"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 121,
+    "question": "what did dmitri mendeleev discover in 1869?",
+    "answers": [
+      "Periodic Table"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 122,
+    "question": "where to get a marriage license in long island?",
+    "answers": [
+      "United States District Court for the Eastern District of New York"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 123,
+    "question": "when does the world end according to the mayans time?",
+    "answers": [
+      "2012"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 124,
+    "question": "what do the symbols on the nevada flag mean?",
+    "answers": [
+      "All For Our Country"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 125,
+    "question": "where is perpignan located?",
+    "answers": [
+      "France"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 126,
+    "question": "where is olympic national park wa?",
+    "answers": [
+      "Jefferson County",
+      "Washington"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 127,
+    "question": "when was the most recent earthquake in haiti?",
+    "answers": [
+      "2010 Haiti Earthquake"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 128,
+    "question": "what books are written by suzanne collins?",
+    "answers": [
+      "Gregor and the Prophecy of Bane",
+      "Gregor and the Marks of Secret",
+      "FIRE PROOF",
+      "Gregor and the Code of Claw",
+      "The Underland Chronicles Book Three",
+      "When Charlie McButton lost power",
+      "Gregor and the Curse of the Warmbloods",
+      "Catching Fire",
+      "12",
+      "Gregor the Overlander"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 129,
+    "question": "who is the president of peru now?",
+    "answers": [
+      "Ollanta Humala"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 130,
+    "question": "where did the israel palestine conflict start?",
+    "answers": [
+      "1936\u201339 Arab revolt in Palestine"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 131,
+    "question": "what are some ancient egypt names?",
+    "answers": [
+      "Abdel Hakim Amer",
+      "Abdul Munim Riad",
+      "Ahmad Ismail Ali",
+      "Abdul Munim Wassel",
+      "Saad El Shazly",
+      "Hosni Mubarak",
+      "Mohammed Aly Fahmy",
+      "Anwar Sadat",
+      "Abd-Al-Minaam Khaleel",
+      "Abdel Ghani el-Gamasy"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 132,
+    "question": "where is the fukushima daiichi nuclear plant located?",
+    "answers": [
+      "Japan",
+      "Okuma"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 133,
+    "question": "who is mary mcleod bethune for kids?",
+    "answers": [
+      "Educator"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 134,
+    "question": "what character did billy d williams play in star wars?",
+    "answers": [
+      "Lando Calrissian"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 135,
+    "question": "what city is mt lassen in?",
+    "answers": [
+      "Shasta County"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 136,
+    "question": "where do john lennon die?",
+    "answers": [
+      "New York City"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 137,
+    "question": "when does daylight saving end in new zealand 2012?",
+    "answers": [
+      "nz"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 138,
+    "question": "where did spencer pratt go to school?",
+    "answers": [
+      "University of Southern California"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 139,
+    "question": "where was the temple of karnak built?",
+    "answers": [
+      "Egypt",
+      "Luxor Governorate"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 140,
+    "question": "what did shakespeare become famous for?",
+    "answers": [
+      "Poet",
+      "Playwright",
+      "Dramatist",
+      "Lyricist",
+      "Author"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 141,
+    "question": "what language do they speak in malta?",
+    "answers": [
+      "Maltese Language",
+      "English Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 142,
+    "question": "who did ricky martin started his career with?",
+    "answers": [
+      "Menudo"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 143,
+    "question": "what language did they speak in ghana?",
+    "answers": [
+      "Akan Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 144,
+    "question": "who was dan white?",
+    "answers": [
+      "Firefighter",
+      "Politician",
+      "Police officer"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 145,
+    "question": "who does peter griffin voice?",
+    "answers": [
+      "Seth MacFarlane"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 146,
+    "question": "where was benjamin franklin educated?",
+    "answers": [
+      "Boston Latin School"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 147,
+    "question": "what does gm make?",
+    "answers": [
+      "Automobile"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 148,
+    "question": "who played lauren reed on alias?",
+    "answers": [
+      "Melissa George"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 149,
+    "question": "who does donnie wahlberg play in the sixth sense?",
+    "answers": [
+      "Vincent Grey"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 150,
+    "question": "where does marta play soccer?",
+    "answers": [
+      "Ume\u00e5 IK"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 151,
+    "question": "where are the gobi desert located on a map?",
+    "answers": [
+      "Mongolia"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 152,
+    "question": "where are the texas rangers playing?",
+    "answers": [
+      "Rangers Ballpark in Arlington"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 153,
+    "question": "what percent of americans have college degree?",
+    "answers": [
+      "Why Race Mattered in Barack Obama's Re-election"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 154,
+    "question": "where was country singer george jones born?",
+    "answers": [
+      "Saratoga"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 155,
+    "question": "where is denmark situated?",
+    "answers": [
+      "Euroregion Baltic"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 156,
+    "question": "where was osama bin laden killed?",
+    "answers": [
+      "Abbottabad"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 157,
+    "question": "what did shannon hoon die from?",
+    "answers": [
+      "Drug overdose"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 158,
+    "question": "what kind of government is sweden?",
+    "answers": [
+      "Representative democracy",
+      "Unitary state",
+      "Parliamentary system",
+      "Constitutional monarchy",
+      "Hereditary monarchy",
+      "Multi-party system"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 159,
+    "question": "who or what influenced albert einstein?",
+    "answers": [
+      "Hendrik Lorentz",
+      "Isaac Newton",
+      "Baruch Spinoza",
+      "George Bernard Shaw",
+      "Hermann Minkowski",
+      "James Clerk Maxwell",
+      "Paul Val\u00e9ry",
+      "Karl Pearson",
+      "Ernst Mach",
+      "Bernhard Riemann"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 160,
+    "question": "what is arkansas state capitol?",
+    "answers": [
+      "Little Rock"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 161,
+    "question": "where does kurdish people live?",
+    "answers": [
+      "Asia"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 162,
+    "question": "who is the state governor of tennessee?",
+    "answers": [
+      "Bill Haslam"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 163,
+    "question": "what sri lanka capital?",
+    "answers": [
+      "Sri Jayawardenapura Kotte"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 164,
+    "question": "what political party did andrew johnson belong to?",
+    "answers": [
+      "Democratic Party",
+      "National Union Party",
+      "Republican Party"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 165,
+    "question": "where did mubarak get his wealth?",
+    "answers": [
+      "Politician"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 166,
+    "question": "what team did aguero play for?",
+    "answers": [
+      "Argentina national football team",
+      "Manchester City F.C.",
+      "Club Atl\u00e9tico Independiente",
+      "Atl\u00e9tico Madrid"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 167,
+    "question": "where did george michael go to school?",
+    "answers": [
+      "Bushey Meads School"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 168,
+    "question": "who plays london tipton in suite life on deck?",
+    "answers": [
+      "Brenda Song"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 169,
+    "question": "who is sir james dyson?",
+    "answers": [
+      "Designer",
+      "Industrial designer",
+      "Engineer",
+      "Inventor"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 170,
+    "question": "what city in florida has the lowest crime rate?",
+    "answers": [
+      "Melqu\u00edades Rafael Martinez"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 171,
+    "question": "what team did ronaldo play for in 2003?",
+    "answers": [
+      "Real Madrid C.F."
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 172,
+    "question": "what year did houston rockets win their first championship?",
+    "answers": [
+      "1994 NBA Finals"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 173,
+    "question": "what does monsanto own?",
+    "answers": [
+      "Agricultural Chemicals",
+      "Seed",
+      "Agriculture",
+      "Chemical industry"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 174,
+    "question": "who was jesse james killed by?",
+    "answers": [
+      "The Assassination of Jesse James by the Coward Robert Ford"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 175,
+    "question": "what is the predominant religion in israel?",
+    "answers": [
+      "Judaism"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 176,
+    "question": "with which ancient ruler did julius caesar fall in love?",
+    "answers": [
+      "Cornelia Cinna minor",
+      "Pompeia",
+      "Calpurnia Pisonis"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 177,
+    "question": "what kind of money should i take to costa rica?",
+    "answers": [
+      "Costa Rican col\u00f3n"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 178,
+    "question": "where did paula deen go to school?",
+    "answers": [
+      "Albany High School"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 179,
+    "question": "what highschool did r. kelly attend?",
+    "answers": [
+      "Kenwood Academy"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 180,
+    "question": "who is number 22 for the dallas cowboys?",
+    "answers": [
+      "Felix Jones"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 181,
+    "question": "when was the last time the orioles won the world series?",
+    "answers": [
+      "1983 World Series"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 182,
+    "question": "who did woody harrelson play on cheers?",
+    "answers": [
+      "Woody Boyd"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 183,
+    "question": "what country did buddha come from?",
+    "answers": [
+      "India"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 184,
+    "question": "what type of religion does argentina have?",
+    "answers": [
+      "Protestantism",
+      "Catholicism",
+      "Judaism"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 185,
+    "question": "what language do they in ghana?",
+    "answers": [
+      "English Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 186,
+    "question": "what the largest city in spain?",
+    "answers": [
+      "Madrid"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 187,
+    "question": "who is khloe kardashian's husband?",
+    "answers": [
+      "Lamar Odom"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 188,
+    "question": "what college did john nash teach at?",
+    "answers": [
+      "Princeton University"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 189,
+    "question": "what stones albums did mick taylor play on?",
+    "answers": [
+      "A Stone's Throw",
+      "Too Hot For Snakes",
+      "Stranger in This Town",
+      "Little Red Rooster",
+      "Arthur's Club-Geneve 1995",
+      "Keepin It Real",
+      "Mick Taylor"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 190,
+    "question": "what political party was hitler in?",
+    "answers": [
+      "German Workers' Party",
+      "Nazi Party"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 191,
+    "question": "what college did se hinton go?",
+    "answers": [
+      "University of Tulsa"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 192,
+    "question": "what language is spoken in haiti today?",
+    "answers": [
+      "French Language",
+      "Haitian Creole French Language"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 1
+  },
+  {
+    "id": 193,
+    "question": "who plays king julian madagascar?",
+    "answers": [
+      "Sacha Baron Cohen"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 194,
+    "question": "what state is saint louis university in?",
+    "answers": [
+      "Missouri"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 195,
+    "question": "where did george herbert walker bush go to college?",
+    "answers": [
+      "Yale University",
+      "Phillips Academy",
+      "Davenport College"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 196,
+    "question": "where is mount st helens volcano?",
+    "answers": [
+      "Skamania County"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 197,
+    "question": "what did joan crawford died of?",
+    "answers": [
+      "Myocardial infarction",
+      "Pancreatic cancer"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  },
+  {
+    "id": 198,
+    "question": "what awards gary paulsen won?",
+    "answers": [
+      "Spur Award for Best Juvenile Fiction",
+      "Dorothy Canfield Fisher Children's Book Award",
+      "Regina Medal",
+      "Anne V. Zarrow Award for Young Readers' Literature",
+      "Spur Award for Best Juvenile Nonfiction",
+      "Newbery Honor"
+    ],
+    "hit_at_1": 0,
+    "hit_at_10": 0,
+    "hit_at_100": 0
+  },
+  {
+    "id": 199,
+    "question": "who is eli whitney and what did he invent?",
+    "answers": [
+      "Cotton gin"
+    ],
+    "hit_at_1": 1,
+    "hit_at_10": 1,
+    "hit_at_100": 1
+  }
+]
